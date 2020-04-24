@@ -59,6 +59,15 @@ input{
     height: 30px;
 }
 textarea{
-	width:400px;
+	width:500px;
 	height:300px;
+}
+#textbox1{
+	display: none;
+}
+#textbox2{
+	display: none;
+}
+#textbox3{
+	display: none;
 }
